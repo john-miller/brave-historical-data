@@ -1,0 +1,1569 @@
+{
+    "braveAds": [
+        {
+            "country": "US",
+            "count": "78",
+            "name": "United States"
+        },
+        {
+            "country": "GB",
+            "count": "66",
+            "name": "United Kingdom"
+        },
+        {
+            "country": "CA",
+            "count": "55",
+            "name": "Canada"
+        },
+        {
+            "country": "AU",
+            "count": "51",
+            "name": "Australia"
+        },
+        {
+            "country": "NZ",
+            "count": "43",
+            "name": "New Zealand"
+        },
+        {
+            "country": "IE",
+            "count": "38",
+            "name": "Ireland"
+        },
+        {
+            "country": "FR",
+            "count": "35",
+            "name": "France"
+        },
+        {
+            "country": "DE",
+            "count": "35",
+            "name": "Germany"
+        },
+        {
+            "country": "ES",
+            "count": "34",
+            "name": "Spain"
+        },
+        {
+            "country": "NL",
+            "count": "31",
+            "name": "Netherlands"
+        },
+        {
+            "country": "IT",
+            "count": "28",
+            "name": "Italy"
+        },
+        {
+            "country": "SG",
+            "count": "28",
+            "name": "Singapore"
+        },
+        {
+            "country": "CH",
+            "count": "27",
+            "name": "Switzerland"
+        },
+        {
+            "country": "HK",
+            "count": "25",
+            "name": "Hong Kong"
+        },
+        {
+            "country": "SE",
+            "count": "24",
+            "name": "Sweden"
+        },
+        {
+            "country": "DK",
+            "count": "23",
+            "name": "Denmark"
+        },
+        {
+            "country": "IN",
+            "count": "22",
+            "name": "India"
+        },
+        {
+            "country": "PT",
+            "count": "22",
+            "name": "Portugal"
+        },
+        {
+            "country": "AT",
+            "count": "22",
+            "name": "Austria"
+        },
+        {
+            "country": "PL",
+            "count": "21",
+            "name": "Poland"
+        },
+        {
+            "country": "JP",
+            "count": "21",
+            "name": "Japan"
+        },
+        {
+            "country": "NO",
+            "count": "20",
+            "name": "Norway"
+        },
+        {
+            "country": "MX",
+            "count": "19",
+            "name": "Mexico"
+        },
+        {
+            "country": "FI",
+            "count": "19",
+            "name": "Finland"
+        },
+        {
+            "country": "AR",
+            "count": "19",
+            "name": "Argentina"
+        },
+        {
+            "country": "BE",
+            "count": "19",
+            "name": "Belgium"
+        },
+        {
+            "country": "BR",
+            "count": "18",
+            "name": "Brazil"
+        },
+        {
+            "country": "HU",
+            "count": "18",
+            "name": "Hungary"
+        },
+        {
+            "country": "HR",
+            "count": "17",
+            "name": "Croatia"
+        },
+        {
+            "country": "CO",
+            "count": "17",
+            "name": "Colombia"
+        },
+        {
+            "country": "CZ",
+            "count": "17",
+            "name": "Czech Republic"
+        },
+        {
+            "country": "TW",
+            "count": "17",
+            "name": "Taiwan"
+        },
+        {
+            "country": "CL",
+            "count": "16",
+            "name": "Chile"
+        },
+        {
+            "country": "BG",
+            "count": "16",
+            "name": "Bulgaria"
+        },
+        {
+            "country": "RU",
+            "count": "16",
+            "name": "Russian Federation"
+        },
+        {
+            "country": "AE",
+            "count": "16",
+            "name": "United Arab Emirates"
+        },
+        {
+            "country": "PE",
+            "count": "16",
+            "name": "Peru"
+        },
+        {
+            "country": "TR",
+            "count": "16",
+            "name": "Turkey"
+        },
+        {
+            "country": "UA",
+            "count": "16",
+            "name": "Ukraine"
+        },
+        {
+            "country": "EC",
+            "count": "16",
+            "name": "Ecuador"
+        },
+        {
+            "country": "SK",
+            "count": "16",
+            "name": "Slovakia"
+        },
+        {
+            "country": "KR",
+            "count": "16",
+            "name": "Korea, Republic of"
+        },
+        {
+            "country": "RO",
+            "count": "16",
+            "name": "Romania"
+        },
+        {
+            "country": "BO",
+            "count": "16",
+            "name": "Bolivia"
+        },
+        {
+            "country": "RS",
+            "count": "15",
+            "name": "Serbia"
+        },
+        {
+            "country": "GR",
+            "count": "15",
+            "name": "Greece"
+        },
+        {
+            "country": "ZA",
+            "count": "15",
+            "name": "South Africa"
+        },
+        {
+            "country": "IL",
+            "count": "15",
+            "name": "Israel"
+        },
+        {
+            "country": "LU",
+            "count": "15",
+            "name": "Luxembourg"
+        },
+        {
+            "country": "HT",
+            "count": "14",
+            "name": "Haiti"
+        },
+        {
+            "country": "SA",
+            "count": "14",
+            "name": "Saudi Arabia"
+        },
+        {
+            "country": "MT",
+            "count": "14",
+            "name": "Malta"
+        },
+        {
+            "country": "MY",
+            "count": "14",
+            "name": "Malaysia"
+        },
+        {
+            "country": "VE",
+            "count": "14",
+            "name": "Venezuela"
+        },
+        {
+            "country": "CN",
+            "count": "14",
+            "name": "China"
+        },
+        {
+            "country": "ID",
+            "count": "14",
+            "name": "Indonesia"
+        },
+        {
+            "country": "TH",
+            "count": "14",
+            "name": "Thailand"
+        },
+        {
+            "country": "EE",
+            "count": "14",
+            "name": "Estonia"
+        },
+        {
+            "country": "PR",
+            "count": "14",
+            "name": "Puerto Rico"
+        },
+        {
+            "country": "CV",
+            "count": "13",
+            "name": "Cape Verde"
+        },
+        {
+            "country": "SI",
+            "count": "13",
+            "name": "Slovenia"
+        },
+        {
+            "country": "BS",
+            "count": "13",
+            "name": "Bahamas"
+        },
+        {
+            "country": "MZ",
+            "count": "13",
+            "name": "Mozambique"
+        },
+        {
+            "country": "AO",
+            "count": "13",
+            "name": "Angola"
+        },
+        {
+            "country": "GF",
+            "count": "13",
+            "name": "French Guiana"
+        },
+        {
+            "country": "PY",
+            "count": "13",
+            "name": "Paraguay"
+        },
+        {
+            "country": "MQ",
+            "count": "13",
+            "name": "Martinique"
+        },
+        {
+            "country": "LV",
+            "count": "13",
+            "name": "Latvia"
+        },
+        {
+            "country": "MN",
+            "count": "13",
+            "name": "Mongolia"
+        },
+        {
+            "country": "GY",
+            "count": "13",
+            "name": "Guyana"
+        },
+        {
+            "country": "PA",
+            "count": "13",
+            "name": "Panama"
+        },
+        {
+            "country": "NG",
+            "count": "13",
+            "name": "Nigeria"
+        },
+        {
+            "country": "GP",
+            "count": "13",
+            "name": "Guadeloupe"
+        },
+        {
+            "country": "CR",
+            "count": "13",
+            "name": "Costa Rica"
+        },
+        {
+            "country": "SV",
+            "count": "13",
+            "name": "El Salvador"
+        },
+        {
+            "country": "GE",
+            "count": "13",
+            "name": "Georgia"
+        },
+        {
+            "country": "NI",
+            "count": "13",
+            "name": "Nicaragua"
+        },
+        {
+            "country": "BZ",
+            "count": "13",
+            "name": "Belize"
+        },
+        {
+            "country": "BY",
+            "count": "13",
+            "name": "Belarus"
+        },
+        {
+            "country": "LT",
+            "count": "13",
+            "name": "Lithuania"
+        },
+        {
+            "country": "SR",
+            "count": "13",
+            "name": "Suriname"
+        },
+        {
+            "country": "BB",
+            "count": "13",
+            "name": "Barbados"
+        },
+        {
+            "country": "DO",
+            "count": "13",
+            "name": "Dominican Republic"
+        },
+        {
+            "country": "MA",
+            "count": "13",
+            "name": "Morocco"
+        },
+        {
+            "country": "DZ",
+            "count": "13",
+            "name": "Algeria"
+        },
+        {
+            "country": "GT",
+            "count": "13",
+            "name": "Guatemala"
+        },
+        {
+            "country": "KZ",
+            "count": "13",
+            "name": "Kazakhstan"
+        },
+        {
+            "country": "UY",
+            "count": "13",
+            "name": "Uruguay"
+        },
+        {
+            "country": "HN",
+            "count": "13",
+            "name": "Honduras"
+        },
+        {
+            "country": "NP",
+            "count": "13",
+            "name": "Nepal"
+        },
+        {
+            "country": "KY",
+            "count": "13",
+            "name": "Cayman Islands"
+        },
+        {
+            "country": "PH",
+            "count": "13",
+            "name": "Philippines"
+        },
+        {
+            "country": "GN",
+            "count": "13",
+            "name": "Guinea"
+        },
+        {
+            "country": "FJ",
+            "count": "12",
+            "name": "Fiji"
+        },
+        {
+            "country": "PG",
+            "count": "12",
+            "name": "Papua New Guinea"
+        },
+        {
+            "country": "MM",
+            "count": "12",
+            "name": "Myanmar"
+        },
+        {
+            "country": "PF",
+            "count": "12",
+            "name": "French Polynesia"
+        },
+        {
+            "country": "SZ",
+            "count": "12",
+            "name": "Swaziland"
+        },
+        {
+            "country": "KG",
+            "count": "12",
+            "name": "Kyrgyzstan"
+        },
+        {
+            "country": "TG",
+            "count": "12",
+            "name": "Togo"
+        },
+        {
+            "country": "JE",
+            "count": "12",
+            "name": "Jersey"
+        },
+        {
+            "country": "RE",
+            "count": "12",
+            "name": "Reunion"
+        },
+        {
+            "country": "MU",
+            "count": "12",
+            "name": "Mauritius"
+        },
+        {
+            "country": "BH",
+            "count": "12",
+            "name": "Bahrain"
+        },
+        {
+            "country": "PS",
+            "count": "12",
+            "name": "Palestinian Territory"
+        },
+        {
+            "country": "JO",
+            "count": "12",
+            "name": "Jordan"
+        },
+        {
+            "country": "TT",
+            "count": "12",
+            "name": "Trinidad and Tobago"
+        },
+        {
+            "country": "AZ",
+            "count": "12",
+            "name": "Azerbaijan"
+        },
+        {
+            "country": "IS",
+            "count": "12",
+            "name": "Iceland"
+        },
+        {
+            "country": "EG",
+            "count": "12",
+            "name": "Egypt"
+        },
+        {
+            "country": "SL",
+            "count": "12",
+            "name": "Sierra Leone"
+        },
+        {
+            "country": "GI",
+            "count": "12",
+            "name": "Gibraltar"
+        },
+        {
+            "country": "IQ",
+            "count": "12",
+            "name": "Iraq"
+        },
+        {
+            "country": "VC",
+            "count": "12",
+            "name": "Saint Vincent and the Grenadines"
+        },
+        {
+            "country": "GM",
+            "count": "12",
+            "name": "Gambia"
+        },
+        {
+            "country": "ZM",
+            "count": "12",
+            "name": "Zambia"
+        },
+        {
+            "country": "LS",
+            "count": "12",
+            "name": "Lesotho"
+        },
+        {
+            "country": "CD",
+            "count": "12",
+            "name": "Congo, The Democratic Republic of the"
+        },
+        {
+            "country": "SD",
+            "count": "12",
+            "name": "Sudan"
+        },
+        {
+            "country": "KH",
+            "count": "12",
+            "name": "Cambodia"
+        },
+        {
+            "country": "BW",
+            "count": "12",
+            "name": "Botswana"
+        },
+        {
+            "country": "BF",
+            "count": "12",
+            "name": "Burkina Faso"
+        },
+        {
+            "country": "SC",
+            "count": "12",
+            "name": "Seychelles"
+        },
+        {
+            "country": "VI",
+            "count": "12",
+            "name": "Virgin Islands, U.S."
+        },
+        {
+            "country": "AW",
+            "count": "12",
+            "name": "Aruba"
+        },
+        {
+            "country": "MC",
+            "count": "12",
+            "name": "Monaco"
+        },
+        {
+            "country": "NA",
+            "count": "12",
+            "name": "Namibia"
+        },
+        {
+            "country": "RW",
+            "count": "12",
+            "name": "Rwanda"
+        },
+        {
+            "country": "MG",
+            "count": "12",
+            "name": "Madagascar"
+        },
+        {
+            "country": "MW",
+            "count": "12",
+            "name": "Malawi"
+        },
+        {
+            "country": "KW",
+            "count": "12",
+            "name": "Kuwait"
+        },
+        {
+            "country": "DM",
+            "count": "12",
+            "name": "Dominica"
+        },
+        {
+            "country": "GU",
+            "count": "12",
+            "name": "Guam"
+        },
+        {
+            "country": "LY",
+            "count": "12",
+            "name": "Libyan Arab Jamahiriya"
+        },
+        {
+            "country": "NE",
+            "count": "12",
+            "name": "Niger"
+        },
+        {
+            "country": "BN",
+            "count": "12",
+            "name": "Brunei Darussalam"
+        },
+        {
+            "country": "ME",
+            "count": "12",
+            "name": "Montenegro"
+        },
+        {
+            "country": "ET",
+            "count": "12",
+            "name": "Ethiopia"
+        },
+        {
+            "country": "UG",
+            "count": "12",
+            "name": "Uganda"
+        },
+        {
+            "country": "MV",
+            "count": "12",
+            "name": "Maldives"
+        },
+        {
+            "country": "GG",
+            "count": "12",
+            "name": "Guernsey"
+        },
+        {
+            "country": "YE",
+            "count": "12",
+            "name": "Yemen"
+        },
+        {
+            "country": "GH",
+            "count": "12",
+            "name": "Ghana"
+        },
+        {
+            "country": "KE",
+            "count": "12",
+            "name": "Kenya"
+        },
+        {
+            "country": "BT",
+            "count": "12",
+            "name": "Bhutan"
+        },
+        {
+            "country": "PK",
+            "count": "12",
+            "name": "Pakistan"
+        },
+        {
+            "country": "ML",
+            "count": "12",
+            "name": "Mali"
+        },
+        {
+            "country": "TZ",
+            "count": "12",
+            "name": "Tanzania, United Republic of"
+        },
+        {
+            "country": "BI",
+            "count": "12",
+            "name": "Burundi"
+        },
+        {
+            "country": "SO",
+            "count": "12",
+            "name": "Somalia"
+        },
+        {
+            "country": "MO",
+            "count": "12",
+            "name": "Macao"
+        },
+        {
+            "country": "ZW",
+            "count": "12",
+            "name": "Zimbabwe"
+        },
+        {
+            "country": "LC",
+            "count": "12",
+            "name": "Saint Lucia"
+        },
+        {
+            "country": "CG",
+            "count": "12",
+            "name": "Congo"
+        },
+        {
+            "country": "FO",
+            "count": "12",
+            "name": "Faroe Islands"
+        },
+        {
+            "country": "GA",
+            "count": "12",
+            "name": "Gabon"
+        },
+        {
+            "country": "GD",
+            "count": "12",
+            "name": "Grenada"
+        },
+        {
+            "country": "LB",
+            "count": "12",
+            "name": "Lebanon"
+        },
+        {
+            "country": "NC",
+            "count": "12",
+            "name": "New Caledonia"
+        },
+        {
+            "country": "MD",
+            "count": "12",
+            "name": "Moldova, Republic of"
+        },
+        {
+            "country": "TO",
+            "count": "12",
+            "name": "Tonga"
+        },
+        {
+            "country": "IM",
+            "count": "12",
+            "name": "Isle of Man"
+        },
+        {
+            "country": "AL",
+            "count": "12",
+            "name": "Albania"
+        },
+        {
+            "country": "OM",
+            "count": "12",
+            "name": "Oman"
+        },
+        {
+            "country": "MK",
+            "count": "12",
+            "name": "Macedonia, The Former Yugoslav Republic of"
+        },
+        {
+            "country": "TN",
+            "count": "12",
+            "name": "Tunisia"
+        },
+        {
+            "country": "BJ",
+            "count": "12",
+            "name": "Benin"
+        },
+        {
+            "country": "CM",
+            "count": "12",
+            "name": "Cameroon"
+        },
+        {
+            "country": "AM",
+            "count": "12",
+            "name": "Armenia"
+        },
+        {
+            "country": "BA",
+            "count": "12",
+            "name": "Bosnia and Herzegovina"
+        },
+        {
+            "country": "UZ",
+            "count": "12",
+            "name": "Uzbekistan"
+        },
+        {
+            "country": "AF",
+            "count": "12",
+            "name": "Afghanistan"
+        },
+        {
+            "country": "BM",
+            "count": "12",
+            "name": "Bermuda"
+        },
+        {
+            "country": "BD",
+            "count": "12",
+            "name": "Bangladesh"
+        },
+        {
+            "country": "LI",
+            "count": "12",
+            "name": "Liechtenstein"
+        },
+        {
+            "country": "CI",
+            "count": "12",
+            "name": "Cote D'Ivoire"
+        },
+        {
+            "country": "QA",
+            "count": "12",
+            "name": "Qatar"
+        },
+        {
+            "country": "LA",
+            "count": "12",
+            "name": "Lao People's Democratic Republic"
+        },
+        {
+            "country": "AD",
+            "count": "12",
+            "name": "Andorra"
+        },
+        {
+            "country": "LK",
+            "count": "12",
+            "name": "Sri Lanka"
+        },
+        {
+            "country": "DJ",
+            "count": "12",
+            "name": "Djibouti"
+        },
+        {
+            "country": "MR",
+            "count": "12",
+            "name": "Mauritania"
+        },
+        {
+            "country": "SN",
+            "count": "12",
+            "name": "Senegal"
+        },
+        {
+            "country": "JM",
+            "count": "12",
+            "name": "Jamaica"
+        },
+        {
+            "country": "CY",
+            "count": "12",
+            "name": "Cyprus"
+        },
+        {
+            "country": "VN",
+            "count": "11",
+            "name": "Vietnam"
+        },
+        {
+            "country": "US-HI",
+            "count": "4",
+            "name": "United States-Hawaii"
+        },
+        {
+            "country": "US-VA",
+            "count": "4",
+            "name": "United States-Virginia"
+        },
+        {
+            "country": "US-ME",
+            "count": "4",
+            "name": "United States-Maine"
+        },
+        {
+            "country": "US-MO",
+            "count": "4",
+            "name": "United States-Missouri"
+        },
+        {
+            "country": "US-OH",
+            "count": "4",
+            "name": "United States-Ohio"
+        },
+        {
+            "country": "US-IN",
+            "count": "4",
+            "name": "United States-Indiana"
+        },
+        {
+            "country": "US-TN",
+            "count": "4",
+            "name": "United States-Tennessee"
+        },
+        {
+            "country": "US-IL",
+            "count": "4",
+            "name": "United States-Illinois"
+        },
+        {
+            "country": "US-NM",
+            "count": "4",
+            "name": "United States-New Mexico"
+        },
+        {
+            "country": "US-OK",
+            "count": "4",
+            "name": "United States-Oklahoma"
+        },
+        {
+            "country": "US-DE",
+            "count": "4",
+            "name": "United States-Delaware"
+        },
+        {
+            "country": "US-FL",
+            "count": "3",
+            "name": "United States-Florida"
+        },
+        {
+            "country": "US-AL",
+            "count": "3",
+            "name": "United States-Alabama"
+        },
+        {
+            "country": "US-NJ",
+            "count": "3",
+            "name": "United States-New Jersey"
+        },
+        {
+            "country": "US-UT",
+            "count": "3",
+            "name": "United States-Utah"
+        },
+        {
+            "country": "US-ND",
+            "count": "3",
+            "name": "United States-North Dakota"
+        },
+        {
+            "country": "CW",
+            "count": "3",
+            "name": "Curaçao"
+        },
+        {
+            "country": "US-SD",
+            "count": "2",
+            "name": "United States-South Dakota"
+        },
+        {
+            "country": "US-AK",
+            "count": "2",
+            "name": "United States-Alaska"
+        },
+        {
+            "country": "US-VT",
+            "count": "2",
+            "name": "United States-Vermont"
+        },
+        {
+            "country": "US-IA",
+            "count": "2",
+            "name": "United States-Iowa"
+        },
+        {
+            "country": "US-MA",
+            "count": "2",
+            "name": "United States-Massachusetts"
+        },
+        {
+            "country": "US-MN",
+            "count": "2",
+            "name": "United States-Minnesota"
+        },
+        {
+            "country": "US-TX",
+            "count": "2",
+            "name": "United States-Texas"
+        },
+        {
+            "country": "US-NH",
+            "count": "2",
+            "name": "United States-New Hampshire"
+        },
+        {
+            "country": "US-MI",
+            "count": "2",
+            "name": "United States-Michigan"
+        },
+        {
+            "country": "US-AR",
+            "count": "2",
+            "name": "United States-Arkansas"
+        },
+        {
+            "country": "US-WA",
+            "count": "2",
+            "name": "United States-Washington"
+        },
+        {
+            "country": "US-RI",
+            "count": "2",
+            "name": "United States-Rhode Island"
+        },
+        {
+            "country": "US-KY",
+            "count": "2",
+            "name": "United States-Kentucky"
+        },
+        {
+            "country": "US-KS",
+            "count": "2",
+            "name": "United States-Kansas"
+        },
+        {
+            "country": "US-CT",
+            "count": "2",
+            "name": "United States-Connecticut"
+        },
+        {
+            "country": "US-NE",
+            "count": "2",
+            "name": "United States-Nebraska"
+        },
+        {
+            "country": "US-LA",
+            "count": "2",
+            "name": "United States-Louisiana"
+        },
+        {
+            "country": "US-OR",
+            "count": "2",
+            "name": "United States-Oregon"
+        },
+        {
+            "country": "US-AZ",
+            "count": "2",
+            "name": "United States-Arizona"
+        },
+        {
+            "country": "US-WI",
+            "count": "2",
+            "name": "United States-Wisconsin"
+        },
+        {
+            "country": "US-CA",
+            "count": "1",
+            "name": "United States-California"
+        },
+        {
+            "country": "US-MT",
+            "count": "1",
+            "name": "United States-Montana"
+        },
+        {
+            "country": "US-MS",
+            "count": "1",
+            "name": "United States-Mississippi"
+        },
+        {
+            "country": "US-WV",
+            "count": "1",
+            "name": "United States-West Virginia"
+        },
+        {
+            "country": "US-NC",
+            "count": "1",
+            "name": "United States-North Carolina"
+        },
+        {
+            "country": "US-NV",
+            "count": "1",
+            "name": "United States-Nevada"
+        },
+        {
+            "country": "US-GA",
+            "count": "1",
+            "name": "United States-Georgia"
+        },
+        {
+            "country": "US-PA",
+            "count": "1",
+            "name": "United States-Pennsylvania"
+        },
+        {
+            "country": "US-CO",
+            "count": "1",
+            "name": "United States-Colorado"
+        },
+        {
+            "country": "US-ID",
+            "count": "1",
+            "name": "United States-Idaho"
+        },
+        {
+            "country": "US-NY",
+            "count": "1",
+            "name": "United States-New York"
+        },
+        {
+            "country": "US-SC",
+            "count": "1",
+            "name": "United States-South Carolina"
+        },
+        {
+            "country": "US-MD",
+            "count": "1",
+            "name": "United States-Maryland"
+        }
+    ],
+    "metrics": {
+        "growth": {
+            "2018-12": 31011,
+            "2019-01": 37772,
+            "2019-02": 48320,
+            "2019-03": 76725,
+            "2019-04": 104351,
+            "2019-05": 149005,
+            "2019-06": 179058,
+            "2019-07": 212186,
+            "2019-08": 247149,
+            "2019-09": 280059,
+            "2019-10": 303768,
+            "2019-11": 332216,
+            "2019-12": 359436,
+            "2020-01": 389988,
+            "2020-02": 421187,
+            "2020-03": 492606,
+            "2020-04": 533645,
+            "2020-05": 670858,
+            "2020-06": 733589,
+            "2020-07": 789503,
+            "2020-08": 853433,
+            "2020-09": 899511,
+            "2020-10": 950006,
+            "2020-11": 970789,
+            "2020-12": 988292,
+            "2021-01": 1011633,
+            "2021-02": 1019709,
+            "2021-03": 1019111,
+            "2021-04": 1018477
+        },
+        "categories": {
+            "YouTube": 543382,
+            "Websites": 73024,
+            "Twitter": 129686,
+            "Twitch": 72261,
+            "Reddit": 84785,
+            "GitHub": 30169,
+            "Vimeo": 85170
+        }
+    },
+    "transactions": {
+        "adfbf7c6-a63f-4548-9304-8e3f4379d435": {
+            "date": 1568743291069,
+            "BAT": "115364.21",
+            "site": "Uphold"
+        },
+        "025498e9-6cd5-4ffa-8a64-c6f53134b6d7": {
+            "date": 1567041151732,
+            "BAT": "73288.98",
+            "site": "Uphold"
+        },
+        "ee200b66-3630-4649-86ca-8f2ea3750f89": {
+            "date": 1568658033099,
+            "BAT": "47229.79",
+            "site": "Uphold"
+        },
+        "7d082160-d26c-48bf-b44e-682f62b48ab1": {
+            "date": 1569274866650,
+            "BAT": "46627.22",
+            "site": "Uphold"
+        },
+        "1a993d9c-3f29-423c-a686-4786996229e3": {
+            "date": 1571588947251,
+            "BAT": "67693.57",
+            "site": "Uphold"
+        },
+        "5f444edc-907f-45be-984d-5bfa2f209478": {
+            "date": 1572382604728,
+            "BAT": "115193.63",
+            "site": "Uphold"
+        },
+        "cd689c7a-892e-4123-b422-be84f6d20a72": {
+            "date": 1574281080311,
+            "BAT": "127588.29",
+            "site": "Uphold"
+        },
+        "7e171206-3c9e-486c-9b89-2681d9e80d74": {
+            "date": 1575760325844,
+            "BAT": "132159.18",
+            "site": "Uphold"
+        },
+        "a00491ec-4ec1-4203-833f-ff645695a020": {
+            "date": 1577133675932,
+            "BAT": "172398.77",
+            "site": "Uphold"
+        },
+        "70084446-8abf-46a8-964e-196798c4564f": {
+            "date": 1578868653210,
+            "BAT": "111343.11",
+            "site": "Uphold"
+        },
+        "30438440-284b-40af-b230-80cc3438db81": {
+            "date": 1580166325345,
+            "BAT": "124009.74",
+            "site": "Uphold"
+        },
+        "9cdd9a86-92a6-4d57-8cbe-73c7d9f023c6": {
+            "date": 1581705432208,
+            "BAT": "72471.11",
+            "site": "Uphold"
+        },
+        "27d6f75d-88fe-4818-8168-66c6aef95c3e": {
+            "date": 1581705461621,
+            "BAT": "64805.52",
+            "site": "Uphold"
+        },
+        "4b8bbcfc-66fc-4024-a789-9b043a791860": {
+            "date": 1582333852765,
+            "BAT": "58958.28",
+            "site": "Uphold"
+        },
+        "9ac26d0f-276b-48bf-9534-3dfd890217e9": {
+            "date": 1583779490648,
+            "BAT": "87238.13",
+            "site": "Uphold"
+        },
+        "daea2b04-adf9-4289-9acf-a3194c51e419": {
+            "date": 1583777531610,
+            "BAT": "105515.96",
+            "site": "Uphold"
+        },
+        "281c56e5-1431-4076-a159-90c8ce118350": {
+            "date": 1583777455466,
+            "BAT": "105424.34",
+            "site": "Uphold"
+        },
+        "a6f97488-1748-41d1-bb07-6cabf707fea0": {
+            "date": 1583777354429,
+            "BAT": "105002.64",
+            "site": "Uphold"
+        },
+        "07a48d42-71b9-4150-b50d-323f1fc144ee": {
+            "date": 1583776550545,
+            "BAT": "131260.39",
+            "site": "Uphold"
+        },
+        "52c50442-8e74-40eb-8881-53d8161a1832": {
+            "date": 1585596969308,
+            "BAT": "504218.78",
+            "site": "Uphold"
+        },
+        "99ac1ad6-e18a-42c8-b833-01565eb9522b": {
+            "date": 1587344315892,
+            "BAT": "380927.27",
+            "site": "Uphold"
+        },
+        "a7098734-f5a9-445f-86e4-984abd9ef29f": {
+            "date": 1588797843863,
+            "BAT": "373807.34",
+            "site": "Uphold"
+        },
+        "ae1f4610-ba5d-4012-ba8a-a7aa126d016a": {
+            "date": 1589923199256,
+            "BAT": "160923.24",
+            "site": "Uphold"
+        },
+        "19a4ef85-22ff-449d-929e-8da8dc61b500": {
+            "date": 1592235150065,
+            "BAT": "407266.57",
+            "site": "Uphold"
+        },
+        "e3702c09-da36-4d20-b384-24ec88d3eefd": {
+            "date": 1593710213674,
+            "BAT": "301532.63",
+            "site": "Uphold"
+        },
+        "bb674834-30a8-4212-b9f5-2a420f7bbee5": {
+            "date": 1593710252955,
+            "BAT": "275928.55",
+            "site": "Uphold"
+        },
+        "6454e171-3787-467a-bb59-1408436d7900": {
+            "date": 1594751479247,
+            "BAT": "300915.55",
+            "site": "Uphold"
+        },
+        "84c40a10-fb4d-4098-827f-7b5f49afa491": {
+            "date": 1595286223379,
+            "BAT": "227410.32",
+            "site": "Uphold"
+        },
+        "ac43ff6f-d840-49be-8901-9fcc00b3a512": {
+            "date": 1595620428299,
+            "BAT": "298285.82",
+            "site": "Uphold"
+        },
+        "65fc6eb6-d24c-40f2-9f03-d3152715cfb1": {
+            "date": 1595620681406,
+            "BAT": "324144.81",
+            "site": "Uphold"
+        },
+        "11ddc29b-b7d4-422f-a73e-9787eaefd571": {
+            "date": 1597268623017,
+            "BAT": "215143.36",
+            "site": "Uphold"
+        },
+        "67a208d6-0f29-4265-9087-fe2fa33e38f8": {
+            "date": 1597820130003,
+            "BAT": "283487.77",
+            "site": "Uphold"
+        },
+        "b366ec8d-1676-422a-9dfb-2304097d8ee1": {
+            "date": 1598318030454,
+            "BAT": "222239.82",
+            "site": "Uphold"
+        },
+        "40d1ca97-1e51-4865-b028-8e31000fd913": {
+            "date": 1598328238365,
+            "BAT": "231686.24",
+            "site": "Uphold"
+        },
+        "e02444d1-f8d2-4cd5-b011-2e66a61cc8ea": {
+            "date": 1598379993816,
+            "BAT": "244995.95",
+            "site": "Uphold"
+        },
+        "b5f173c5-dd36-47dd-b2e4-349b20b62055": {
+            "date": 1599597165202,
+            "BAT": "309750.62",
+            "site": "Uphold"
+        },
+        "9c0a5fee-1a9e-4bbd-8009-8edf5d447cd1": {
+            "date": 1600125441958,
+            "BAT": "313852.89",
+            "site": "Uphold"
+        },
+        "949c698c-191b-4339-b0a4-0db9f38d4a7f": {
+            "date": 1600904995887,
+            "BAT": "271492.44",
+            "site": "Uphold"
+        },
+        "3afd018b-2d38-4ce5-bce8-9ae41a25b7ca": {
+            "date": 1600905021752,
+            "BAT": "277048.03",
+            "site": "Uphold"
+        },
+        "71f556c8-5349-4883-b007-bbdec3f9856c": {
+            "date": 1601071765680,
+            "BAT": "281552.53",
+            "site": "Uphold"
+        },
+        "b3cb823a-7164-4926-96af-b5b78ca2b2bf": {
+            "date": 1601583167403,
+            "BAT": "417041.38",
+            "site": "Uphold"
+        },
+        "35fd551b-4272-43f2-a49c-6820f349f31a": {
+            "date": 1603226230915,
+            "BAT": "444981.56",
+            "site": "Uphold"
+        },
+        "3010ee8e-fb59-4e04-902a-2a5c1e6b130c": {
+            "date": 1603226196774,
+            "BAT": "468333.97",
+            "site": "Uphold"
+        },
+        "fac06a26-050a-49a9-880b-c82e812636aa": {
+            "date": 1603746083573,
+            "BAT": "447327.49",
+            "site": "Uphold"
+        },
+        "46ca15f3-c908-4005-807d-dda2cc5060f1": {
+            "date": 1604365573454,
+            "BAT": "340615.79",
+            "site": "Uphold"
+        },
+        "f82094d8-599f-447b-9271-4bfdea3df35b": {
+            "date": 1605740852786,
+            "BAT": "481121.76",
+            "site": "Uphold"
+        },
+        "22315d88-9318-49b8-bad5-010b003b3e8f": {
+            "date": 1605831191059,
+            "BAT": "486762.80",
+            "site": "Uphold"
+        },
+        "e1e3cfda-b6a2-416b-af07-a5fb8a58de3a": {
+            "date": 1607041924685,
+            "BAT": "393373.44",
+            "site": "Uphold"
+        },
+        "019233dc-c585-4555-b0fb-4c83a5504321": {
+            "date": 1607041975650,
+            "BAT": "390091.35",
+            "site": "Uphold"
+        },
+        "6b6e977a-7e06-41bb-bb1d-79158a78711d": {
+            "date": 1607042027018,
+            "BAT": "341875.91",
+            "site": "Uphold"
+        },
+        "f7346af1-a69d-48ed-9f22-6ce1c05a034c": {
+            "date": 1608082597327,
+            "BAT": "438350.26",
+            "site": "Uphold"
+        },
+        "c2d75c79-26e6-4910-813d-dfd76d6de7ce": {
+            "date": 1608065549449,
+            "BAT": "437003.95",
+            "site": "Uphold"
+        },
+        "7184ce89-2e98-4f57-aca8-f3e37e4a1b4e": {
+            "date": 1609201233589,
+            "BAT": "449678.01",
+            "site": "Uphold"
+        },
+        "85a2da75-0969-4c7c-bd18-719d452b6d77": {
+            "date": 1609357811727,
+            "BAT": "473769.93",
+            "site": "Uphold"
+        },
+        "6876370b-3291-4159-89e1-af7e766933b1": {
+            "date": 1609357894725,
+            "BAT": "405667.05",
+            "site": "Uphold"
+        },
+        "2017a0ca-69e4-436f-9039-333b2a929dec": {
+            "date": 1611722649303,
+            "BAT": "330381.46",
+            "site": "Uphold"
+        },
+        "024fabc8-2365-4c9e-8595-e0fb4e9f8a09": {
+            "date": 1611722386935,
+            "BAT": "331830.72",
+            "site": "Uphold"
+        },
+        "789cbca9-3746-4c1d-baf4-b19b8a9e7426": {
+            "date": 1611895376644,
+            "BAT": "325626.15",
+            "site": "Uphold"
+        },
+        "c7b2d69c-f1de-4bd1-85b1-cb97f9cbf53c": {
+            "date": 1611895406039,
+            "BAT": "249139.51",
+            "site": "Uphold"
+        },
+        "dfa83a89-0936-4b3c-a689-0534b82c5029": {
+            "date": 1614204470650,
+            "BAT": "201250.71",
+            "site": "Uphold"
+        },
+        "c788396d-42b6-4edf-aa56-ddafb2f1a6d0": {
+            "date": 1614198512892,
+            "BAT": "197296.97",
+            "site": "Uphold"
+        },
+        "b1511ed2-7dc8-45a0-86ac-fc538026922a": {
+            "date": 1614197449155,
+            "BAT": "195049.02",
+            "site": "Uphold"
+        },
+        "085a2f75-536b-48ca-99b3-6a89b9a43f78": {
+            "date": 1614297339275,
+            "BAT": "174761.85",
+            "site": "Uphold"
+        },
+        "3fd889ba-62f7-43b3-bab2-14f72920869d": {
+            "date": 1616478134829,
+            "BAT": "91448.73",
+            "site": "Uphold"
+        },
+        "3fe18cf6-ad48-4593-a4d3-c702d7a91ceb": {
+            "date": 1616477106698,
+            "BAT": "90507.95",
+            "site": "Uphold"
+        },
+        "64e24b1f-cee2-4254-86ab-06d788163c7a": {
+            "date": 1616476998437,
+            "BAT": "90405.36",
+            "site": "Uphold"
+        },
+        "576d1d41-5339-40fb-9c2a-84884023c49f": {
+            "date": 1616476858195,
+            "BAT": "90494.59",
+            "site": "Uphold"
+        },
+        "c6055e33-e7be-4334-8c3e-f47ac2787d71": {
+            "date": 1619037702446,
+            "BAT": "486043.48",
+            "site": "Coinbase"
+        }
+    },
+    "updated": 1619733128178
+}

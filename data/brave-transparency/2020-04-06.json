@@ -1,0 +1,462 @@
+{
+    "braveAds": [
+        {
+            "country": "US",
+            "count": "59",
+            "name": "United States"
+        },
+        {
+            "country": "GB",
+            "count": "32",
+            "name": "United Kingdom"
+        },
+        {
+            "country": "AU",
+            "count": "27",
+            "name": "Australia"
+        },
+        {
+            "country": "CA",
+            "count": "26",
+            "name": "Canada"
+        },
+        {
+            "country": "NZ",
+            "count": "21",
+            "name": "New Zealand"
+        },
+        {
+            "country": "IE",
+            "count": "20",
+            "name": "Ireland"
+        },
+        {
+            "country": "DE",
+            "count": "15",
+            "name": "Germany"
+        },
+        {
+            "country": "FR",
+            "count": "14",
+            "name": "France"
+        },
+        {
+            "country": "SG",
+            "count": "9",
+            "name": "Singapore"
+        },
+        {
+            "country": "AT",
+            "count": "7",
+            "name": "Austria"
+        },
+        {
+            "country": "ES",
+            "count": "6",
+            "name": "Spain"
+        },
+        {
+            "country": "IN",
+            "count": "6",
+            "name": "India"
+        },
+        {
+            "country": "CH",
+            "count": "6",
+            "name": "Switzerland"
+        },
+        {
+            "country": "JP",
+            "count": "6",
+            "name": "Japan"
+        },
+        {
+            "country": "IT",
+            "count": "6",
+            "name": "Italy"
+        },
+        {
+            "country": "DK",
+            "count": "5",
+            "name": "Denmark"
+        },
+        {
+            "country": "ZA",
+            "count": "5",
+            "name": "South Africa"
+        },
+        {
+            "country": "KY",
+            "count": "5",
+            "name": "Cayman Islands"
+        },
+        {
+            "country": "MX",
+            "count": "4",
+            "name": "Mexico"
+        },
+        {
+            "country": "AE",
+            "count": "4",
+            "name": "United Arab Emirates"
+        },
+        {
+            "country": "SA",
+            "count": "4",
+            "name": "Saudi Arabia"
+        },
+        {
+            "country": "IL",
+            "count": "4",
+            "name": "Israel"
+        },
+        {
+            "country": "SK",
+            "count": "3",
+            "name": "Slovakia"
+        },
+        {
+            "country": "AR",
+            "count": "3",
+            "name": "Argentina"
+        },
+        {
+            "country": "CL",
+            "count": "3",
+            "name": "Chile"
+        },
+        {
+            "country": "CZ",
+            "count": "3",
+            "name": "Czech Republic"
+        },
+        {
+            "country": "EG",
+            "count": "3",
+            "name": "Egypt"
+        },
+        {
+            "country": "FI",
+            "count": "3",
+            "name": "Finland"
+        },
+        {
+            "country": "HR",
+            "count": "3",
+            "name": "Croatia"
+        },
+        {
+            "country": "IQ",
+            "count": "3",
+            "name": "Iraq"
+        },
+        {
+            "country": "NL",
+            "count": "3",
+            "name": "Netherlands"
+        },
+        {
+            "country": "NO",
+            "count": "3",
+            "name": "Norway"
+        },
+        {
+            "country": "PH",
+            "count": "3",
+            "name": "Philippines"
+        },
+        {
+            "country": "PK",
+            "count": "3",
+            "name": "Pakistan"
+        },
+        {
+            "country": "RO",
+            "count": "3",
+            "name": "Romania"
+        },
+        {
+            "country": "SE",
+            "count": "3",
+            "name": "Sweden"
+        },
+        {
+            "country": "SI",
+            "count": "3",
+            "name": "Slovenia"
+        },
+        {
+            "country": "PT",
+            "count": "2",
+            "name": "Portugal"
+        },
+        {
+            "country": "NG",
+            "count": "2",
+            "name": "Nigeria"
+        },
+        {
+            "country": "PE",
+            "count": "2",
+            "name": "Peru"
+        },
+        {
+            "country": "HK",
+            "count": "2",
+            "name": "Hong Kong"
+        },
+        {
+            "country": "CO",
+            "count": "2",
+            "name": "Colombia"
+        },
+        {
+            "country": "MY",
+            "count": "2",
+            "name": "Malaysia"
+        },
+        {
+            "country": "BR",
+            "count": "2",
+            "name": "Brazil"
+        },
+        {
+            "country": "BE",
+            "count": "2",
+            "name": "Belgium"
+        },
+        {
+            "country": "AL",
+            "count": "2",
+            "name": "Albania"
+        },
+        {
+            "country": "PL",
+            "count": "1",
+            "name": "Poland"
+        },
+        {
+            "country": "VE",
+            "count": "1",
+            "name": "Venezuela"
+        },
+        {
+            "country": "RS",
+            "count": "1",
+            "name": "Serbia"
+        },
+        {
+            "country": "RU",
+            "count": "1",
+            "name": "Russian Federation"
+        },
+        {
+            "country": "BG",
+            "count": "1",
+            "name": "Bulgaria"
+        },
+        {
+            "country": "VN",
+            "count": "1",
+            "name": "Vietnam"
+        },
+        {
+            "country": "BD",
+            "count": "1",
+            "name": "Bangladesh"
+        },
+        {
+            "country": "ID",
+            "count": "1",
+            "name": "Indonesia"
+        },
+        {
+            "country": "HU",
+            "count": "1",
+            "name": "Hungary"
+        },
+        {
+            "country": "GR",
+            "count": "1",
+            "name": "Greece"
+        },
+        {
+            "country": "TH",
+            "count": "1",
+            "name": "Thailand"
+        },
+        {
+            "country": "EC",
+            "count": "1",
+            "name": "Ecuador"
+        },
+        {
+            "country": "DZ",
+            "count": "1",
+            "name": "Algeria"
+        },
+        {
+            "country": "KR",
+            "count": "1",
+            "name": "Korea, Republic of"
+        },
+        {
+            "country": "KH",
+            "count": "1",
+            "name": "Cambodia"
+        },
+        {
+            "country": "LT",
+            "count": "1",
+            "name": "Lithuania"
+        },
+        {
+            "country": "MA",
+            "count": "1",
+            "name": "Morocco"
+        },
+        {
+            "country": "CN",
+            "count": "1",
+            "name": "China"
+        },
+        {
+            "country": "TR",
+            "count": "1",
+            "name": "Turkey"
+        },
+        {
+            "country": "TW",
+            "count": "1",
+            "name": "Taiwan"
+        },
+        {
+            "country": "OTHER",
+            "count": "1",
+            "name": "Other"
+        },
+        {
+            "country": "UA",
+            "count": "1",
+            "name": "Ukraine"
+        },
+        {
+            "country": "AZ",
+            "count": "1",
+            "name": "Azerbaijan"
+        }
+    ],
+    "metrics": {
+        "growth": {
+            "2018-12": 31011,
+            "2019-01": 37772,
+            "2019-02": 48320,
+            "2019-03": 76725,
+            "2019-04": 104351,
+            "2019-05": 149005,
+            "2019-06": 179058,
+            "2019-07": 212186,
+            "2019-08": 247149,
+            "2019-09": 280059,
+            "2019-10": 303768,
+            "2019-11": 332216,
+            "2019-12": 359436,
+            "2020-01": 389988,
+            "2020-02": 421187,
+            "2020-03": 492606,
+            "2020-04": 507091
+        },
+        "categories": {
+            "YouTube": 291852,
+            "Websites": 47486,
+            "Twitter": 56707,
+            "Twitch": 42083,
+            "Reddit": 41298,
+            "GitHub": 12781,
+            "Vimeo": 14884
+        }
+    },
+    "transactions": {
+        "adfbf7c6-a63f-4548-9304-8e3f4379d435": {
+            "date": 1568743291069,
+            "BAT": 115364.2108045687
+        },
+        "025498e9-6cd5-4ffa-8a64-c6f53134b6d7": {
+            "date": 1567041151732,
+            "BAT": 73288.97504527825
+        },
+        "ee200b66-3630-4649-86ca-8f2ea3750f89": {
+            "date": 1568658033099,
+            "BAT": 47229.79379354113
+        },
+        "7d082160-d26c-48bf-b44e-682f62b48ab1": {
+            "date": 1569274866650,
+            "BAT": 46627.22496160778
+        },
+        "1a993d9c-3f29-423c-a686-4786996229e3": {
+            "date": 1571588947251,
+            "BAT": 67693.57014547625
+        },
+        "5f444edc-907f-45be-984d-5bfa2f209478": {
+            "date": 1572382604728,
+            "BAT": 115193.63032832267
+        },
+        "cd689c7a-892e-4123-b422-be84f6d20a72": {
+            "date": 1574281080311,
+            "BAT": 127588.28623947166
+        },
+        "7e171206-3c9e-486c-9b89-2681d9e80d74": {
+            "date": 1575760325844,
+            "BAT": 132159.18204445924
+        },
+        "a00491ec-4ec1-4203-833f-ff645695a020": {
+            "date": 1577133675932,
+            "BAT": 172398.7699308214
+        },
+        "70084446-8abf-46a8-964e-196798c4564f": {
+            "date": 1578868653210,
+            "BAT": 111343.1122586015
+        },
+        "30438440-284b-40af-b230-80cc3438db81": {
+            "date": 1580166325345,
+            "BAT": 124009.74208561538
+        },
+        "9cdd9a86-92a6-4d57-8cbe-73c7d9f023c6": {
+            "date": 1581705432208,
+            "BAT": 72471.11498447545
+        },
+        "27d6f75d-88fe-4818-8168-66c6aef95c3e": {
+            "date": 1581705461621,
+            "BAT": 64805.516327110054
+        },
+        "4b8bbcfc-66fc-4024-a789-9b043a791860": {
+            "date": 1582333852765,
+            "BAT": 58958.27913821258
+        },
+        "9ac26d0f-276b-48bf-9534-3dfd890217e9": {
+            "date": 1583779490648,
+            "BAT": 87238.12796045338
+        },
+        "daea2b04-adf9-4289-9acf-a3194c51e419": {
+            "date": 1583777531610,
+            "BAT": 105515.96091576379
+        },
+        "281c56e5-1431-4076-a159-90c8ce118350": {
+            "date": 1583777455466,
+            "BAT": 105424.33735341037
+        },
+        "a6f97488-1748-41d1-bb07-6cabf707fea0": {
+            "date": 1583777354429,
+            "BAT": 105002.64191960004
+        },
+        "07a48d42-71b9-4150-b50d-323f1fc144ee": {
+            "date": 1583776550545,
+            "BAT": 131260.3854327017
+        },
+        "52c50442-8e74-40eb-8881-53d8161a1832": {
+            "date": 1585596969308,
+            "BAT": 504218.7773259665
+        }
+    },
+    "updated": 1586172608024
+}

@@ -1,0 +1,234 @@
+{
+    "braveAds": [
+        {
+            "country": "US",
+            "count": "46",
+            "name": "United States"
+        },
+        {
+            "country": "CA",
+            "count": "28",
+            "name": "Canada"
+        },
+        {
+            "country": "GB",
+            "count": "26",
+            "name": "United Kingdom"
+        },
+        {
+            "country": "AU",
+            "count": "22",
+            "name": "Australia"
+        },
+        {
+            "country": "IE",
+            "count": "19",
+            "name": "Ireland"
+        },
+        {
+            "country": "DE",
+            "count": "17",
+            "name": "Germany"
+        },
+        {
+            "country": "NZ",
+            "count": "17",
+            "name": "New Zealand"
+        },
+        {
+            "country": "FR",
+            "count": "15",
+            "name": "France"
+        },
+        {
+            "country": "KY",
+            "count": "5",
+            "name": "Cayman Islands"
+        },
+        {
+            "country": "SE",
+            "count": "4",
+            "name": "Sweden"
+        },
+        {
+            "country": "DK",
+            "count": "4",
+            "name": "Denmark"
+        },
+        {
+            "country": "NL",
+            "count": "3",
+            "name": "Netherlands"
+        },
+        {
+            "country": "CH",
+            "count": "3",
+            "name": "Switzerland"
+        },
+        {
+            "country": "IT",
+            "count": "3",
+            "name": "Italy"
+        },
+        {
+            "country": "AT",
+            "count": "3",
+            "name": "Austria"
+        },
+        {
+            "country": "JP",
+            "count": "2",
+            "name": "Japan"
+        },
+        {
+            "country": "BE",
+            "count": "2",
+            "name": "Belgium"
+        },
+        {
+            "country": "PL",
+            "count": "2",
+            "name": "Poland"
+        },
+        {
+            "country": "VE",
+            "count": "1",
+            "name": "Venezuela"
+        },
+        {
+            "country": "BR",
+            "count": "1",
+            "name": "Brazil"
+        },
+        {
+            "country": "CL",
+            "count": "1",
+            "name": "Chile"
+        },
+        {
+            "country": "CO",
+            "count": "1",
+            "name": "Colombia"
+        },
+        {
+            "country": "EC",
+            "count": "1",
+            "name": "Ecuador"
+        },
+        {
+            "country": "FI",
+            "count": "1",
+            "name": "Finland"
+        },
+        {
+            "country": "IL",
+            "count": "1",
+            "name": "Israel"
+        },
+        {
+            "country": "IN",
+            "count": "1",
+            "name": "India"
+        },
+        {
+            "country": "KR",
+            "count": "1",
+            "name": "Korea, Republic of"
+        },
+        {
+            "country": "MX",
+            "count": "1",
+            "name": "Mexico"
+        },
+        {
+            "country": "NO",
+            "count": "1",
+            "name": "Norway"
+        },
+        {
+            "country": "PE",
+            "count": "1",
+            "name": "Peru"
+        },
+        {
+            "country": "PH",
+            "count": "1",
+            "name": "Philippines"
+        },
+        {
+            "country": "SG",
+            "count": "1",
+            "name": "Singapore"
+        },
+        {
+            "country": "AR",
+            "count": "1",
+            "name": "Argentina"
+        }
+    ],
+    "metrics": {
+        "growth": {
+            "2018-12": 31011,
+            "2019-01": 37772,
+            "2019-02": 48320,
+            "2019-03": 76725,
+            "2019-04": 104351,
+            "2019-05": 149005,
+            "2019-06": 179058,
+            "2019-07": 212186,
+            "2019-08": 247149,
+            "2019-09": 280059,
+            "2019-10": 303768,
+            "2019-11": 332216,
+            "2019-12": 359436
+        },
+        "categories": {
+            "YouTube": 235156,
+            "Websites": 39320,
+            "Twitter": 40365,
+            "Twitch": 20506,
+            "Reddit": 14496,
+            "GitHub": 7223,
+            "Vimeo": 2370
+        }
+    },
+    "transactions": {
+        "adfbf7c6-a63f-4548-9304-8e3f4379d435": {
+            "date": 1568743291069,
+            "BAT": 115364.2108045687
+        },
+        "025498e9-6cd5-4ffa-8a64-c6f53134b6d7": {
+            "date": 1567041151732,
+            "BAT": 73288.97504527825
+        },
+        "ee200b66-3630-4649-86ca-8f2ea3750f89": {
+            "date": 1568658033099,
+            "BAT": 47229.79379354113
+        },
+        "7d082160-d26c-48bf-b44e-682f62b48ab1": {
+            "date": 1569274866650,
+            "BAT": 46627.22496160778
+        },
+        "1a993d9c-3f29-423c-a686-4786996229e3": {
+            "date": 1571588947251,
+            "BAT": 67693.57014547625
+        },
+        "5f444edc-907f-45be-984d-5bfa2f209478": {
+            "date": 1572382604728,
+            "BAT": 115193.63032832267
+        },
+        "cd689c7a-892e-4123-b422-be84f6d20a72": {
+            "date": 1574281080311,
+            "BAT": 127588.28623947166
+        },
+        "7e171206-3c9e-486c-9b89-2681d9e80d74": {
+            "date": 1575760325844,
+            "BAT": 132159.18204445924
+        },
+        "a00491ec-4ec1-4203-833f-ff645695a020": {
+            "date": 1577133675932,
+            "BAT": 172398.7699308214
+        }
+    },
+    "updated": 1577210419185
+}
