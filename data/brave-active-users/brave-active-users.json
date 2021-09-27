@@ -1,0 +1,72 @@
+[
+    {
+        "postedOn": "2020-06-01",
+        "dailyActiveUsers": 5700000,
+        "monthlyActiveUsers": 16700000
+    },
+    {
+        "postedOn": "2020-07-01",
+        "dailyActiveUsers": 5700000,
+        "monthlyActiveUsers": 16700000
+    },
+    {
+        "postedOn": "2020-08-01",
+        "dailyActiveUsers": 6100000,
+        "monthlyActiveUsers":  18300000
+    },
+    {
+        "postedOn": "2020-09-01",
+        "dailyActiveUsers": 6600000,
+        "monthlyActiveUsers": 19600000
+    },
+    {
+        "postedOn": "2020-10-01",
+        "dailyActiveUsers": 7000000,
+        "monthlyActiveUsers": 20500000
+    },
+    {
+        "postedOn": "2020-11-01",
+        "dailyActiveUsers": 7400000,
+        "monthlyActiveUsers": 22200000
+    },
+    {
+        "postedOn": "2020-12-01",
+        "dailyActiveUsers": 7800000,
+        "monthlyActiveUsers": 24100000
+    },
+    {
+        "postedOn": "2021-01-01",
+        "dailyActiveUsers": 8600000,
+        "monthlyActiveUsers": 25400000
+    },
+    {
+        "postedOn": "2021-02-01",
+        "dailyActiveUsers": 5700000,
+        "monthlyActiveUsers": 16700000
+    },
+    {
+        "postedOn": "2021-03-01",
+        "dailyActiveUsers": 9800000,
+        "monthlyActiveUsers": 29000000
+    },
+    {
+        "postedOn": "2021-05-01",
+        "dailyActiveUsers": 11300000,
+        "monthlyActiveUsers": 32400000
+    },
+    {
+        "postedOn": "2021-06-01",
+        "dailyActiveUsers": 11700000,
+        "monthlyActiveUsers": 33800000
+    },
+    {
+        "postedOn": "2021-07-01",
+        "dailyActiveUsers": 11900000,
+        "monthlyActiveUsers": 34400000
+    },
+    {
+        "postedOn": "2021-08-01",
+        "dailyActiveUsers": 12500000,
+        "monthlyActiveUsers": 36200000
+    }
+]

@@ -40,6 +40,10 @@ const dataDirs = [
     {
         fileDir: './data/reddit',
         apiUrl: `imports/reddit/stats`
+    }, 
+    {
+        fileDir: './data/brave-active-users',
+        apiUrl: `imports/brave/activeUsers`
     }
 ];
 
